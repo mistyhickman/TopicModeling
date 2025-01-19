@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/misty.hickman/OneDrive/Documents/dev_work/TopicModeling/mlruns/0/cdb620c5f2b14d9493ed740e93e8ac71/artifacts
+end_time: 1737292317444
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: cdb620c5f2b14d9493ed740e93e8ac71
+run_name: shivering-horse-692
+run_uuid: cdb620c5f2b14d9493ed740e93e8ac71
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1737292311641
+status: 3
+tags: []
+user_id: misty.hickman

@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/misty.hickman/OneDrive/Documents/dev_work/TopicModeling/mlruns/0/34e1962835584e90abd88caad603074e/artifacts
+end_time: 1737262356097
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 34e1962835584e90abd88caad603074e
+run_name: chill-sponge-612
+run_uuid: 34e1962835584e90abd88caad603074e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1737262346343
+status: 3
+tags: []
+user_id: misty.hickman
